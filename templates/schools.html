@@ -13,12 +13,14 @@
     <th>2016/2017</th>
     <th>2015/2016</th>
     <th>2014/2015</th>
+        <th>Ofsted Rating</th>
+        <th>Ofsted Date</th>
     </tr>
     </thead>
     <tbody class="table-hover">
     {% for data in data %}
         <tr>
-    <td><a href="https://reports.ofsted.gov.uk/provider/files/2269625/urn/103814.pdf">{{data.Address}}</a></td>
+    <td>{{data.Address}}</td>
     <td>{{"%.2f" % data.Dist}}km</td>
     <td>{% if data.TwentySixteen == 0 %}
     <p style="color:green">All applications admitted
@@ -42,7 +44,10 @@
         <p style="color:green">{{ data.TwentyFourteen }}m
             {% else %}
     <p style="color:red">{{ data.TwentyFourteen }}m
-    {% endif %} </td>
+           </td>
+    {% endif %}
+        <td><a href="{{ data.OfstedLink }}">{{data.OfstedRank}}</a></td>
+            <td>{{ data.OfstedDate }}</td>
         </tr>
     {% endfor %}
 </tbody>

@@ -6,7 +6,10 @@
     "TwentyFifteen": 0,
     "TwentyFourteen": 2144,
     "Lat": 52.545858,
-    "Lng": -2.133738
+    "Lng": -2.133738,
+    "OfstedRank": "Good",
+    "OfstedLink": "https://reports.ofsted.gov.uk/provider/files/2420873/urn/103869.pdf",
+    "OfstedDate": "03-Apr-14"
   },
   {
     "DFE_No": 3322123,
@@ -15,7 +18,10 @@
     "TwentyFifteen": 0,
     "TwentyFourteen": 2964,
     "Lat": 52.467366,
-    "Lng": -2.150717
+    "Lng": -2.150717,
+    "OfstedRank": "Good",
+    "OfstedLink": "https://reports.ofsted.gov.uk/provider/files/1981019/urn/103806.pdf",
+    "OfstedDate": "22/09/2011"
   },
   {
     "DFE_No": 3322141,
@@ -24,7 +30,10 @@
     "TwentyFifteen": 0,
     "TwentyFourteen": 0,
     "Lat": 52.472138,
-    "Lng": -2.167099
+    "Lng": -2.167099,
+    "OfstedRank": "Good",
+    "OfstedLink": "https://reports.ofsted.gov.uk/provider/files/2342601/urn/103818.pdf",
+    "OfstedDate": "12-Feb-14"
   },
   {
     "DFE_No": 3322003,
@@ -33,7 +42,10 @@
     "TwentyFifteen": 0,
     "TwentyFourteen": 0,
     "Lat": 52.511297,
-    "Lng": -2.070883
+    "Lng": -2.070883,
+    "OfstedRank": "n/a",
+    "OfstedLink": "n/a",
+    "OfstedDate": "n/a"
   },
   {
     "DFE_No": 3322151,
@@ -42,7 +54,10 @@
     "TwentyFifteen": 1860,
     "TwentyFourteen": 2534,
     "Lat": 52.481877,
-    "Lng": -2.171878
+    "Lng": -2.171878,
+    "OfstedRank": "Good",
+    "OfstedLink": "https://reports.ofsted.gov.uk/provider/files/1982915/urn/103828.pdf",
+    "OfstedDate": "11-Oct-11"
   },
   {
     "DFE_No": 3322077,
@@ -51,7 +66,10 @@
     "TwentyFifteen": 0,
     "TwentyFourteen": 0,
     "Lat": 52.50391,
-    "Lng": -2.159614
+    "Lng": -2.159614,
+    "OfstedRank": "Good",
+    "OfstedLink": "https://reports.ofsted.gov.uk/provider/files/2282413/urn/103792.pdf",
+    "OfstedDate": "08-Oct-13"
   },
   {
     "DFE_No": 3322000,
@@ -60,7 +78,10 @@
     "TwentyFifteen": 2982,
     "TwentyFourteen": 3775,
     "Lat": 52.504943,
-    "Lng": -2.089839
+    "Lng": -2.089839,
+    "OfstedRank": "Good",
+    "OfstedLink": "https://reports.ofsted.gov.uk/provider/files/2138611/urn/103771.pdf",
+    "OfstedDate": "31-Oct-12"
   },
   {
     "DFE_No": 3322045,
@@ -69,7 +90,10 @@
     "TwentyFifteen": 1340,
     "TwentyFourteen": 2097,
     "Lat": 52.53451,
-    "Lng": -2.097972
+    "Lng": -2.097972,
+    "OfstedRank": "Good",
+    "OfstedLink": "https://reports.ofsted.gov.uk/provider/files/2471996/urn/139437.pdf",
+    "OfstedDate": "03-Mar-15"
   },
   {
     "DFE_No": 3322023,
@@ -78,7 +102,10 @@
     "TwentyFifteen": 0,
     "TwentyFourteen": 1100,
     "Lat": 52.478417,
-    "Lng": -2.119847
+    "Lng": -2.119847,
+    "OfstedRank": "Good",
+    "OfstedLink": "https://reports.ofsted.gov.uk/provider/files/2583542/urn/103776.pdf",
+    "OfstedDate": "21-Jun-16"
   },
   {
     "DFE_No": 3322024,
@@ -87,7 +114,10 @@
     "TwentyFifteen": 1761,
     "TwentyFourteen": 0,
     "Lat": 52.48448,
-    "Lng": -2.129588
+    "Lng": -2.129588,
+    "OfstedRank": "Good",
+    "OfstedLink": "https://reports.ofsted.gov.uk/provider/files/2417277/urn/103777.pdf",
+    "OfstedDate": "08-Jul-14"
   },
   {
     "DFE_No": 3322142,
@@ -96,7 +126,10 @@
     "TwentyFifteen": 0,
     "TwentyFourteen": 0,
     "Lat": 52.490137,
-    "Lng": -2.154012
+    "Lng": -2.154012,
+    "OfstedRank": "Good",
+    "OfstedLink": "https://reports.ofsted.gov.uk/provider/files/2075171/urn/103819.pdf",
+    "OfstedDate": "13-Sep-12"
   },
   {
     "DFE_No": 3322029,
@@ -105,7 +138,10 @@
     "TwentyFifteen": 0,
     "TwentyFourteen": 1956,
     "Lat": 52.472449,
-    "Lng": -2.151838
+    "Lng": -2.151838,
+    "OfstedRank": "Good",
+    "OfstedLink": "https://reports.ofsted.gov.uk/provider/files/2219109/urn/103778.pdf",
+    "OfstedDate": "25-Apr-13"
   },
   {
     "DFE_No": 3322112,
@@ -114,7 +150,10 @@
     "TwentyFifteen": 0,
     "TwentyFourteen": 0,
     "Lat": 52.452264,
-    "Lng": -2.089289
+    "Lng": -2.089289,
+    "OfstedRank": "Good",
+    "OfstedLink": "https://reports.ofsted.gov.uk/provider/files/2476901/urn/103801.pdf",
+    "OfstedDate": "16-Apr-15"
   },
   {
     "DFE_No": 3323010,
@@ -123,7 +162,10 @@
     "TwentyFifteen": 925,
     "TwentyFourteen": 713,
     "Lat": 52.546495,
-    "Lng": -2.079087
+    "Lng": -2.079087,
+    "OfstedRank": "Outstanding",
+    "OfstedLink": "https://reports.ofsted.gov.uk/provider/files/2228917/urn/103838.pdf",
+    "OfstedDate": "16-May-13"
   },
   {
     "DFE_No": 3323007,
@@ -132,7 +174,10 @@
     "TwentyFifteen": 0,
     "TwentyFourteen": 0,
     "Lat": 52.504643,
-    "Lng": -2.176185
+    "Lng": -2.176185,
+    "OfstedRank": "Good",
+    "OfstedLink": "https://reports.ofsted.gov.uk/provider/files/2019565/urn/103835.pdf",
+    "OfstedDate": "28-May-12"
   },
   {
     "DFE_No": 3322102,
@@ -141,7 +186,10 @@
     "TwentyFifteen": 4544,
     "TwentyFourteen": 0,
     "Lat": 52.460877,
-    "Lng": -2.087419
+    "Lng": -2.087419,
+    "OfstedRank": "Requires Improvement",
+    "OfstedLink": "https://reports.ofsted.gov.uk/provider/files/2445442/urn/103793.pdf",
+    "OfstedDate": "02-Dec-14"
   },
   {
     "DFE_No": 3322130,
@@ -150,7 +198,10 @@
     "TwentyFifteen": 4125,
     "TwentyFourteen": 0,
     "Lat": 52.537166,
-    "Lng": -2.126118
+    "Lng": -2.126118,
+    "OfstedRank": "Good",
+    "OfstedLink": "https://reports.ofsted.gov.uk/provider/files/2484248/urn/103810.pdf",
+    "OfstedDate": "12-May-15"
   },
   {
     "DFE_No": 3323350,
@@ -159,7 +210,10 @@
     "TwentyFifteen": 650,
     "TwentyFourteen": 618,
     "Lat": 52.463205,
-    "Lng": -2.087154
+    "Lng": -2.087154,
+    "OfstedRank": "Good",
+    "OfstedLink": "https://reports.ofsted.gov.uk/provider/files/2075339/urn/103846.pdf",
+    "OfstedDate": "20-Sep-12"
   },
   {
     "DFE_No": 3322072,
@@ -168,7 +222,10 @@
     "TwentyFifteen": 0,
     "TwentyFourteen": 935,
     "Lat": 52.492103,
-    "Lng": -2.14562
+    "Lng": -2.14562,
+    "OfstedRank": "Good",
+    "OfstedLink": "https://reports.ofsted.gov.uk/provider/files/2583592/urn/103790.pdf",
+    "OfstedDate": "08-Jun-16"
   },
   {
     "DFE_No": 3322043,
@@ -177,7 +234,10 @@
     "TwentyFifteen": 3306,
     "TwentyFourteen": 0,
     "Lat": 52.500945,
-    "Lng": -2.173731
+    "Lng": -2.173731,
+    "OfstedRank": "Good",
+    "OfstedLink": "https://reports.ofsted.gov.uk/provider/files/2342713/urn/103781.pdf",
+    "OfstedDate": "13-Feb-14"
   },
   {
     "DFE_No": 3322152,
@@ -186,7 +246,10 @@
     "TwentyFifteen": 1760,
     "TwentyFourteen": 0,
     "Lat": 52.486119,
-    "Lng": -2.147654
+    "Lng": -2.147654,
+    "OfstedRank": "Good",
+    "OfstedLink": "https://reports.ofsted.gov.uk/provider/files/2178339/urn/103829.pdf",
+    "OfstedDate": "23-Jan-13"
   },
   {
     "DFE_No": 3322005,
@@ -195,7 +258,10 @@
     "TwentyFifteen": 904,
     "TwentyFourteen": 788,
     "Lat": 52.478015,
-    "Lng": -2.085423
+    "Lng": -2.085423,
+    "OfstedRank": "Good",
+    "OfstedLink": "https://reports.ofsted.gov.uk/provider/files/2217563/urn/103773.pdf",
+    "OfstedDate": "25-Apr-13"
   },
   {
     "DFE_No": 3322063,
@@ -204,7 +270,10 @@
     "TwentyFifteen": 2275,
     "TwentyFourteen": 800,
     "Lat": 52.483538,
-    "Lng": -2.164744
+    "Lng": -2.164744,
+    "OfstedRank": "Good",
+    "OfstedLink": "https://reports.ofsted.gov.uk/provider/files/2273309/urn/103786.pdf",
+    "OfstedDate": "24-Sep-13"
   },
   {
     "DFE_No": 3322068,
@@ -213,7 +282,10 @@
     "TwentyFifteen": 1988,
     "TwentyFourteen": 2086,
     "Lat": 52.529758,
-    "Lng": -2.08299
+    "Lng": -2.08299,
+    "OfstedRank": "Good",
+    "OfstedLink": "https://reports.ofsted.gov.uk/provider/files/2429005/urn/103788.pdf",
+    "OfstedDate": "07-Oct-14"
   },
   {
     "DFE_No": 3322145,
@@ -222,7 +294,10 @@
     "TwentyFifteen": 3742,
     "TwentyFourteen": 0,
     "Lat": 52.449655,
-    "Lng": -2.162165
+    "Lng": -2.162165,
+    "OfstedRank": "Good",
+    "OfstedLink": "https://reports.ofsted.gov.uk/provider/files/2269629/urn/103822.pdf",
+    "OfstedDate": "11-Sep-13"
   },
   {
     "DFE_No": 3322155,
@@ -231,7 +306,10 @@
     "TwentyFifteen": 1459,
     "TwentyFourteen": 1059,
     "Lat": 52.48808,
-    "Lng": -2.171981
+    "Lng": -2.171981,
+    "OfstedRank": "Good",
+    "OfstedLink": "https://reports.ofsted.gov.uk/provider/files/2139691/urn/103832.pdf",
+    "OfstedDate": "01-Nov-12"
   },
   {
     "DFE_No": 3322109,
@@ -240,7 +318,10 @@
     "TwentyFifteen": 466,
     "TwentyFourteen": 530,
     "Lat": 52.453482,
-    "Lng": -2.149575
+    "Lng": -2.149575,
+    "OfstedRank": "Outstanding",
+    "OfstedLink": "https://reports.ofsted.gov.uk/provider/files/948179/urn/103799.pdf",
+    "OfstedDate": "25-Feb-10"
   },
   {
     "DFE_No": 3323352,
@@ -249,7 +330,10 @@
     "TwentyFifteen": 0,
     "TwentyFourteen": 0,
     "Lat": 52.450753,
-    "Lng": -2.052624
+    "Lng": -2.052624,
+    "OfstedRank": "Good",
+    "OfstedLink": "https://reports.ofsted.gov.uk/provider/files/1916585/urn/103847.pdf",
+    "OfstedDate": "06-Feb-12"
   },
   {
     "DFE_No": 3322125,
@@ -258,7 +342,10 @@
     "TwentyFifteen": 1075,
     "TwentyFourteen": 1529,
     "Lat": 52.443737,
-    "Lng": -2.129086
+    "Lng": -2.129086,
+    "OfstedRank": "Inadequate",
+    "OfstedLink": "https://reports.ofsted.gov.uk/provider/files/2532681/urn/103808.pdf",
+    "OfstedDate": "10-Nov-15"
   },
   {
     "DFE_No": 3322143,
@@ -267,7 +354,10 @@
     "TwentyFifteen": 781,
     "TwentyFourteen": 0,
     "Lat": 52.478258,
-    "Lng": -2.141089
+    "Lng": -2.141089,
+    "OfstedRank": "Good",
+    "OfstedLink": "https://reports.ofsted.gov.uk/provider/files/2278613/urn/103820.pdf",
+    "OfstedDate": "03-Oct-13"
   },
   {
     "DFE_No": 3322156,
@@ -276,7 +366,10 @@
     "TwentyFifteen": 0,
     "TwentyFourteen": 759,
     "Lat": 52.4432,
-    "Lng": -2.116322
+    "Lng": -2.116322,
+    "OfstedRank": "Good",
+    "OfstedLink": "https://reports.ofsted.gov.uk/provider/files/2271721/urn/103833.pdf",
+    "OfstedDate": "19-Sep-13"
   },
   {
     "DFE_No": 3322137,
@@ -285,6 +378,561 @@
     "TwentyFifteen": 2347,
     "TwentyFourteen": 2115,
     "Lat": 52.456263,
-    "Lng": -2.015874
+    "Lng": -2.015874,
+    "OfstedRank": "Good",
+    "OfstedLink": "https://reports.ofsted.gov.uk/provider/files/2269625/urn/103814.pdf",
+    "OfstedDate": "11-Sep-13"
+  },
+  {
+    "DFE_No": 3322116,
+    "Address": "Huntingtree Primary\nBournes Hill\nHasbury Estate\nHalesowen B63 4DZ",
+    "TwentySixteen": 1130,
+    "TwentyFifteen": 0,
+    "TwentyFourteen": 0,
+    "Lat": 52.448737,
+    "Lng": -2.969677,
+    "OfstedRank": "Requires Improvement",
+    "OfstedLink": "https://reports.ofsted.gov.uk/provider/files/2594431/urn/103802.pdf",
+    "OfstedDate": "22-Jun-16"
+  },
+  {
+    "DFE_No": 3322124,
+    "Address": "Hurst Green Primary\nNarrow Lane\nHalesowen B62 9NZ",
+    "TwentySixteen": 940,
+    "TwentyFifteen": 790,
+    "TwentyFourteen": 770,
+    "Lat": 52.467531,
+    "Lng": -2.026069,
+    "OfstedRank": "Good",
+    "OfstedLink": "https://reports.ofsted.gov.uk/provider/files/2245113/urn/103807.pdf",
+    "OfstedDate": "02-Jul-13"
+  },
+  {
+    "DFE_No": 3322148,
+    "Address": "Hurst Hill Primary\nPaul Street, Coseley\nBilston WV14 9AJ",
+    "TwentySixteen": 0,
+    "TwentyFifteen": 0,
+    "TwentyFourteen": 0,
+    "Lat": 52.543667,
+    "Lng": -2.099503,
+    "OfstedRank": "Requires Improvement",
+    "OfstedLink": "https://reports.ofsted.gov.uk/provider/files/2571059/urn/103825.pdf",
+    "OfstedDate": "26-Apr-16"
+  },
+  {
+    "DFE_No": 3323306,
+    "Address": "Jesson's CE Primary\nSchool Street\nDudley DY1 2AQ",
+    "TwentySixteen": 0,
+    "TwentyFifteen": 0,
+    "TwentyFourteen": 0,
+    "Lat": 52.51173,
+    "Lng": -2.094848,
+    "OfstedRank": "Good",
+    "OfstedLink": "https://reports.ofsted.gov.uk/provider/files/2389673/urn/103845.pdf",
+    "OfstedDate": "08-May-14"
+  },
+  {
+    "DFE_No": 3322010,
+    "Address": "Kates Hill Community Primary\nPeel Street, Kates Hill\nDudley DY2 7HP",
+    "TwentySixteen": 0,
+    "TwentyFifteen": 954,
+    "TwentyFourteen": 2050,
+    "Lat": 52.506939,
+    "Lng": -2.072972,
+    "OfstedRank": "Good",
+    "OfstedLink": "https://reports.ofsted.gov.uk/provider/files/2388909/urn/103774.pdf",
+    "OfstedDate": "07-May-14"
+  },
+  {
+    "DFE_No": 3322107,
+    "Address": "Lapal Primary\nPriory Road\nHalesowen B62 0BZ",
+    "TwentySixteen": 1834,
+    "TwentyFifteen": 1053,
+    "TwentyFourteen": 2761,
+    "Lat": 52.452778,
+    "Lng": -2.023082,
+    "OfstedRank": "Good",
+    "OfstedLink": "https://reports.ofsted.gov.uk/provider/files/2193677/urn/103797.pdf",
+    "OfstedDate": "28-Feb-13"
+  },
+  {
+    "DFE_No": 3322120,
+    "Address": "Lutley Primary\nBrookwillow Road\nHalesowen B63 1BU",
+    "TwentySixteen": 767,
+    "TwentyFifteen": 1569,
+    "TwentyFourteen": 2405,
+    "Lat": 52.440775,
+    "Lng": -2.076453,
+    "OfstedRank": "Outstanding",
+    "OfstedLink": "https://reports.ofsted.gov.uk/provider/files/948189/urn/103804.pdf",
+    "OfstedDate": "01-Mar-10"
+  },
+  {
+    "DFE_No": 3322035,
+    "Address": "Maidensbridge Primary\nBeachcroft Road\nWall Heath\nKingswinford DY6 0HX",
+    "TwentySixteen": 0,
+    "TwentyFifteen": 9480,
+    "TwentyFourteen": 0,
+    "Lat": 52.510316,
+    "Lng": -2.178501,
+    "OfstedRank": "Good",
+    "OfstedLink": "https://reports.ofsted.gov.uk/provider/files/2245265/urn/103779.pdf",
+    "OfstedDate": "26-Jun-13"
+  },
+  {
+    "DFE_No": 3322139,
+    "Address": "Manor Way Primary\nBrier Mill Road\nHalesowen B63 3HA",
+    "TwentySixteen": 2775,
+    "TwentyFifteen": 0,
+    "TwentyFourteen": 1705,
+    "Lat": 52.447795,
+    "Lng": -2.041303,
+    "OfstedRank": "Requires Improvement",
+    "OfstedLink": "https://reports.ofsted.gov.uk/provider/files/2323359/urn/103816.pdf",
+    "OfstedDate": "15-Jan-14"
+  },
+  {
+    "DFE_No": 3322160,
+    "Address": "Milking Bank Primary\nAintree Way, Milking Bank\nDudley DY1 2SL",
+    "TwentySixteen": 663,
+    "TwentyFifteen": 701,
+    "TwentyFourteen": 471,
+    "Lat": 52.515398,
+    "Lng": -2.112704,
+    "OfstedRank": "Good",
+    "OfstedLink": "https://reports.ofsted.gov.uk/provider/files/2228933/urn/103834.pdf",
+    "OfstedDate": "16-May-13"
+  },
+  {
+    "DFE_No": 3322036,
+    "Address": "Mount Pleasant Primary\nMount Pleasant\nQuarry Bank\nBrierley Hill DY5 2YN",
+    "TwentySixteen": 0,
+    "TwentyFifteen": 1050,
+    "TwentyFourteen": 863,
+    "Lat": 52.47353,
+    "Lng": -2.113113,
+    "OfstedRank": "Good",
+    "OfstedLink": "https://reports.ofsted.gov.uk/provider/files/2431441/urn/103780.pdf",
+    "OfstedDate": "23-Oct-14"
+  },
+  {
+    "DFE_No": 3322147,
+    "Address": "Netherbrook Primary\nChester Road, Netherton\nDudley DY2 9RZ",
+    "TwentySixteen": 1430,
+    "TwentyFifteen": 903,
+    "TwentyFourteen": 1080,
+    "Lat": 52.479708,
+    "Lng": -2.076927,
+    "OfstedRank": "Good",
+    "OfstedLink": "https://reports.ofsted.gov.uk/provider/files/2463081/urn/103824.pdf",
+    "OfstedDate": "26-Feb-15"
+  },
+  {
+    "DFE_No": 3323053,
+    "Address": "Netherton CE Primary\nHighbridge Road, Netherton\nDudley DY2 0HU",
+    "TwentySixteen": 0,
+    "TwentyFifteen": 3481,
+    "TwentyFourteen": 0,
+    "Lat": 52.489439,
+    "Lng": -2.092678,
+    "OfstedRank": "Good",
+    "OfstedLink": "https://reports.ofsted.gov.uk/provider/files/2350009/urn/103841.pdf",
+    "OfstedDate": "26-Feb-14"
+  },
+  {
+    "DFE_No": 3322138,
+    "Address": "Newfield Park Primary\nWhittingham Road\nHalesowen B63 3TP",
+    "TwentySixteen": 0,
+    "TwentyFifteen": 3532,
+    "TwentyFourteen": 1592,
+    "Lat": 52.456976,
+    "Lng": -2.055464,
+    "OfstedRank": "Requires Improvement",
+    "OfstedLink": "https://reports.ofsted.gov.uk/provider/files/2421539/urn/103815.pdf",
+    "OfstedDate": "11-Sep-14"
+  },
+  {
+    "DFE_No": 3322012,
+    "Address": "Northfield Road Primary\nNorthfield Road\nNetherton\nDudley DY2 9ER",
+    "TwentySixteen": 568,
+    "TwentyFifteen": 3709,
+    "TwentyFourteen": 687,
+    "Lat": 52.49043,
+    "Lng": -2.080768,
+    "OfstedRank": "Good",
+    "OfstedLink": "https://reports.ofsted.gov.uk/provider/files/2331653/urn/103775.pdf",
+    "OfstedDate": "30-Jan-14"
+  },
+  {
+    "DFE_No": 3323050,
+    "Address": "Oldswinford CE Primary\nField Lane\nOldswinford\nStourbridge DY8 2JQ",
+    "TwentySixteen": 1496,
+    "TwentyFifteen": 1401,
+    "TwentyFourteen": 1389,
+    "Lat": 52.446516,
+    "Lng": -2.143383,
+    "OfstedRank": "Good",
+    "OfstedLink": "https://reports.ofsted.gov.uk/provider/files/2398928/urn/103839.pdf",
+    "OfstedDate": "04-Jun-14"
+  },
+  {
+    "DFE_No": 3322106,
+    "Address": "Olive Hill Primary\nSpringfield Road\nHalesowen B62 8JZ",
+    "TwentySixteen": 0,
+    "TwentyFifteen": 0,
+    "TwentyFourteen": 0,
+    "Lat": 52.466126,
+    "Lng": -2.033696,
+    "OfstedRank": "Good",
+    "OfstedLink": "https://reports.ofsted.gov.uk/provider/files/2452816/urn/103796.pdf",
+    "OfstedDate": "21-Jan-15"
+  },
+  {
+    "DFE_No": 3323357,
+    "Address": "Our Lady & St Kenelm\nRC Primary\nBundle Hill\nHalesowen B63 4AR",
+    "TwentySixteen": 83,
+    "TwentyFifteen": 3064,
+    "TwentyFourteen": 5760,
+    "Lat": 52.449684,
+    "Lng": -2.058512,
+    "OfstedRank": "Outstanding",
+    "OfstedLink": "https://reports.ofsted.gov.uk/provider/files/2215411/urn/103850.pdf",
+    "OfstedDate": "23-Apr-13"
+  },
+  {
+    "DFE_No": 3323354,
+    "Address": "Pedmore CE Primary\nHagley Road, Pedmore\nStourbridge DY9 0RH",
+    "TwentySixteen": 680,
+    "TwentyFifteen": 341,
+    "TwentyFourteen": 1655,
+    "Lat": 52.437321,
+    "Lng": -2.133395,
+    "OfstedRank": "Good",
+    "OfstedLink": "https://reports.ofsted.gov.uk/provider/files/2489136/urn/103848.pdf",
+    "OfstedDate": "04-Jun-15"
+  },
+  {
+    "DFE_No": 3322075,
+    "Address": "Peters Hill Primary\nPeters Hill Road\nAmblecote\nBrierley Hill DY5 2QH",
+    "TwentySixteen": 1503,
+    "TwentyFifteen": 0,
+    "TwentyFourteen": 0,
+    "Lat": 52.463544,
+    "Lng": -2.131703,
+    "OfstedRank": "Good",
+    "OfstedLink": "https://reports.ofsted.gov.uk/provider/files/2326063/urn/103791.pdf",
+    "OfstedDate": "23-Jan-14"
+  },
+  {
+    "DFE_No": 3322154,
+    "Address": "Priory Primary\nLimes Road, Priory Estate\nDudley DY1 4HN",
+    "TwentySixteen": 0,
+    "TwentyFifteen": 0,
+    "TwentyFourteen": 0,
+    "Lat": 52.519784,
+    "Lng": -2.090721,
+    "OfstedRank": "Good",
+    "OfstedLink": "https://reports.ofsted.gov.uk/provider/files/2415664/urn/103831.pdf",
+    "OfstedDate": "02-Jul-14"
+  },
+  {
+    "DFE_No": 3322153,
+    "Address": "Quarry Bank Primary\nHigh Street, Quarry Bank\nBrierley Hill DY5 2AD",
+    "TwentySixteen": 959,
+    "TwentyFifteen": 628,
+    "TwentyFourteen": 667,
+    "Lat": 52.472403,
+    "Lng": -2.100781,
+    "OfstedRank": "Good",
+    "OfstedLink": "https://reports.ofsted.gov.uk/provider/files/2190905/urn/103830.pdf",
+    "OfstedDate": "12-Feb-13"
+  },
+  {
+    "DFE_No": 3322149,
+    "Address": "Queen Victoria Primary\nBilston Street, Sedgley\nDudley DY3 1JB",
+    "TwentySixteen": 0,
+    "TwentyFifteen": 0,
+    "TwentyFourteen": 0,
+    "Lat": 52.542926,
+    "Lng": -2.11789,
+    "OfstedRank": "Good",
+    "OfstedLink": "https://reports.ofsted.gov.uk/provider/files/2150931/urn/103826.pdf",
+    "OfstedDate": "27-Nov-13"
+  },
+  {
+    "DFE_No": 3322052,
+    "Address": "Red Hall Primary\nZoar Street\nLower Gornal\nDudley DY3 2PA",
+    "TwentySixteen": 0,
+    "TwentyFifteen": 0,
+    "TwentyFourteen": 0,
+    "Lat": 52.517859,
+    "Lng": -2.128112,
+    "OfstedRank": "Good",
+    "OfstedLink": "https://reports.ofsted.gov.uk/provider/files/2453740/urn/103784.pdf",
+    "OfstedDate": "20-Jan-15"
+  },
+  {
+    "DFE_No": 3322144,
+    "Address": "Roberts Primary\nRoberts Street\nLower Gornal\nDudley DY3 2AZ",
+    "TwentySixteen": 992,
+    "TwentyFifteen": 872,
+    "TwentyFourteen": 1457,
+    "Lat": 52.521268,
+    "Lng": -2.11936,
+    "OfstedRank": "Good",
+    "OfstedLink": "https://reports.ofsted.gov.uk/provider/files/2417281/urn/103821.pdf",
+    "OfstedDate": "08-Jul-14"
+  },
+  {
+    "DFE_No": 3322118,
+    "Address": "Rufford Primary\nBredon Avenue\nStourbridge DY9 7NR",
+    "TwentySixteen": 0,
+    "TwentyFifteen": 0,
+    "TwentyFourteen": 0,
+    "Lat": 52.455943,
+    "Lng": -2.126834,
+    "OfstedRank": "Good",
+    "OfstedLink": "https://reports.ofsted.gov.uk/provider/files/2157811/urn/103803.pdf",
+    "OfstedDate": "11-Dec-12"
+  },
+  {
+    "DFE_No": 3322136,
+    "Address": "Russells Hall Primary\nOverfield Road\nRussells Hall Estate\nDudley DY1 2NX",
+    "TwentySixteen": 792,
+    "TwentyFifteen": 1597,
+    "TwentyFourteen": 2016,
+    "Lat": 52.508464,
+    "Lng": -2.116202,
+    "OfstedRank": "Outstanding",
+    "OfstedLink": "https://reports.ofsted.gov.uk/provider/files/2272489/urn/103813.pdf",
+    "OfstedDate": "24-Sep-13"
+  },
+  {
+    "DFE_No": 3322004,
+    "Address": "Sledmere Primary\nSchool Drive\noff Buffery Road\nDudley DY2 8EH",
+    "TwentySixteen": 0,
+    "TwentyFifteen": 0,
+    "TwentyFourteen": 0,
+    "Lat": 52.49805,
+    "Lng": -2.074846,
+    "OfstedRank": "Good",
+    "OfstedLink": "https://reports.ofsted.gov.uk/provider/files/1980083/urn/103772.pdf",
+    "OfstedDate": "12-Sep-11"
+  },
+  {
+    "DFE_No": 3323304,
+    "Address": "St Chad's RC Primary\nCatholic Lane\nSedgley\nDudley DY3 3UE",
+    "TwentySixteen": 0,
+    "TwentyFifteen": 2394,
+    "TwentyFourteen": 539,
+    "Lat": 52.537917,
+    "Lng": -2.121429,
+    "OfstedRank": "N/A",
+    "OfstedLink": "N/A",
+    "OfstedDate": "N/A"
+  },
+  {
+    "DFE_No": 3323358,
+    "Address": "St James's CE Primary\nKingsway\nWollaston\nStourbridge DY8 4RU",
+    "TwentySixteen": 0,
+    "TwentyFifteen": 1349,
+    "TwentyFourteen": 1375,
+    "Lat": 52.469846,
+    "Lng": -2.165735,
+    "OfstedRank": "Good",
+    "OfstedLink": "https://reports.ofsted.gov.uk/provider/files/2326263/urn/103851.pdf",
+    "OfstedDate": "22-Jan-14"
+  },
+  {
+    "DFE_No": 3323302,
+    "Address": "St Joseph's RC Primary\nHillcrest Road\nDudley DY2 7PW",
+    "TwentySixteen": 273,
+    "TwentyFifteen": 292,
+    "TwentyFourteen": 0,
+    "Lat": 52.511031,
+    "Lng": -2.071976,
+    "OfstedRank": "Outstanding",
+    "OfstedLink": "https://reports.ofsted.gov.uk/provider/files/2476545/urn/140147.pdf",
+    "OfstedDate": "14-Apr-15"
+  },
+  {
+    "DFE_No": 3323355,
+    "Address": "St Joseph's RC Primary\nLea Vale Road\nNorton\nStourbridge DY8 2DT",
+    "TwentySixteen": 0,
+    "TwentyFifteen": 873,
+    "TwentyFourteen": 0,
+    "Lat": 52.444476,
+    "Lng": -2.149324,
+    "OfstedRank": "Good",
+    "OfstedLink": "https://reports.ofsted.gov.uk/provider/files/2300209/urn/103849.pdf",
+    "OfstedDate": "14-Nov-13"
+  },
+  {
+    "DFE_No": 3323052,
+    "Address": "St Margaret's at Hasbury CE Primary\nHagley Road\nHasbury, Halesowen B63 4QD",
+    "TwentySixteen": 459,
+    "TwentyFifteen": 464,
+    "TwentyFourteen": 1012,
+    "Lat": 52.444245,
+    "Lng": -2.061503,
+    "OfstedRank": "Good",
+    "OfstedLink": "https://reports.ofsted.gov.uk/provider/files/2521499/urn/103840.pdf",
+    "OfstedDate": "06-Oct-15"
+  },
+  {
+    "DFE_No": 3323008,
+    "Address": "St Mark's CE Primary\nHigh Street\nPensnett\nBrierley Hill DY5 4DZ",
+    "TwentySixteen": 2256,
+    "TwentyFifteen": 0,
+    "TwentyFourteen": 4267,
+    "Lat": 52.501081,
+    "Lng": -2.130858,
+    "OfstedRank": "Good",
+    "OfstedLink": "https://reports.ofsted.gov.uk/provider/files/2458109/urn/103836.pdf",
+    "OfstedDate": "05-Feb-15"
+  },
+  {
+    "DFE_No": 3323009,
+    "Address": "St Mary's CE Primary\nQueen Street\nKingswinford DY6 7AQ",
+    "TwentySixteen": 777,
+    "TwentyFifteen": 2147,
+    "TwentyFourteen": 1243,
+    "Lat": 52.501087,
+    "Lng": -2.166905,
+    "OfstedRank": "Good",
+    "OfstedLink": "https://reports.ofsted.gov.uk/provider/files/2357469/urn/103837.pdf",
+    "OfstedDate": "12-Mar-14"
+  },
+  {
+    "DFE_No": 3323303,
+    "Address": "St Mary's RC Primary\nMill Street\nBrierley Hill DY5 2TH",
+    "TwentySixteen": 0,
+    "TwentyFifteen": 4788,
+    "TwentyFourteen": 4759,
+    "Lat": 52.477496,
+    "Lng": -2.115437,
+    "OfstedRank": "Good",
+    "OfstedLink": "https://reports.ofsted.gov.uk/provider/files/1983767/urn/103843.pdf",
+    "OfstedDate": "18-Oct-11"
+  },
+  {
+    "DFE_No": 3322150,
+    "Address": "Straits Primary\nLongfellow Road\nThe Straits, Lower Gornal\nDudley DY3 3EE",
+    "TwentySixteen": 0,
+    "TwentyFifteen": 0,
+    "TwentyFourteen": 0,
+    "Lat": 52.527049,
+    "Lng": -2.140102,
+    "OfstedRank": "Good",
+    "OfstedLink": "https://reports.ofsted.gov.uk/provider/files/2276345/urn/103827.pdf",
+    "OfstedDate": "26-Sep-13"
+  },
+  {
+    "DFE_No": 3322104,
+    "Address": "Tenterfields Primary\nTenterfields\nHalesowen B63 3LH",
+    "TwentySixteen": 1607,
+    "TwentyFifteen": 1291,
+    "TwentyFourteen": 2775,
+    "Lat": 52.450609,
+    "Lng": -2.045451,
+    "OfstedRank": "Good",
+    "OfstedLink": "https://reports.ofsted.gov.uk/provider/files/2084607/urn/103794.pdf",
+    "OfstedDate": "17-Oct-12"
+  },
+  {
+    "DFE_No": 3322132,
+    "Address": "The Bromley-Pensnett Primary\nBromley\nPensnett\nBrierley Hill DY5 4PJ",
+    "TwentySixteen": 0,
+    "TwentyFifteen": 0,
+    "TwentyFourteen": 1214,
+    "Lat": 52.494207,
+    "Lng": -2.135238,
+    "OfstedRank": "Requires Improvement",
+    "OfstedLink": "https://reports.ofsted.gov.uk/provider/files/2326985/urn/103812.pdf",
+    "OfstedDate": "23-Jan-14"
+  },
+  {
+    "DFE_No": 3322122,
+    "Address": "The Ridge Primary\nGregory Road\nStourbridge DY8 3NF",
+    "TwentySixteen": 0,
+    "TwentyFifteen": 341,
+    "TwentyFourteen": 1068,
+    "Lat": 52.45619,
+    "Lng": -2.172264,
+    "OfstedRank": "Good",
+    "OfstedLink": "https://reports.ofsted.gov.uk/provider/files/2351437/urn/103805.pdf",
+    "OfstedDate": "27-Feb-14"
+  },
+  {
+    "DFE_No": 3322067,
+    "Address": "Thorns Primary\nThorns Road\nQuarry Bank,\nBrierley Hill DY5 2JY",
+    "TwentySixteen": 1110,
+    "TwentyFifteen": 4453,
+    "TwentyFourteen": 1885,
+    "Lat": 52.467354,
+    "Lng": -2.114665,
+    "OfstedRank": "Good",
+    "OfstedLink": "https://reports.ofsted.gov.uk/provider/files/2209031/urn/103787.pdf",
+    "OfstedDate": "19-Mar-13"
+  },
+  {
+    "DFE_No": 3322048,
+    "Address": "Wallbrook Primary\noff Bradleys Lane\nCoseley\nBilston WV14 5YP",
+    "TwentySixteen": 0,
+    "TwentyFifteen": 0,
+    "TwentyFourteen": 4317,
+    "Lat": 52.5425,
+    "Lng": -2.07396,
+    "OfstedRank": "Requires Improvement",
+    "OfstedLink": "https://reports.ofsted.gov.uk/provider/files/2440028/urn/103783.pdf",
+    "OfstedDate": "27-Nov-14"
+  },
+  {
+    "DFE_No": 3322126,
+    "Address": "Withymoor Primary\nGayfield Avenue\noff Turners Lane, Quarry Bank\nBrierley Hill DY5 2BH",
+    "TwentySixteen": 1017,
+    "TwentyFifteen": 1011,
+    "TwentyFourteen": 1277,
+    "Lat": 52.473853,
+    "Lng": -2.121806,
+    "OfstedRank": "Good",
+    "OfstedLink": "https://reports.ofsted.gov.uk/provider/files/2378125/urn/103809.pdf",
+    "OfstedDate": "08-Apr-14"
+  },
+  {
+    "DFE_No": 3322111,
+    "Address": "Wollescote Primary\nDrummond Road\nWollescote\nStourbridge DY9 8YA",
+    "TwentySixteen": 0,
+    "TwentyFifteen": 0,
+    "TwentyFourteen": 0,
+    "Lat": 52.453722,
+    "Lng": -2.107518,
+    "OfstedRank": "Good",
+    "OfstedLink": "https://reports.ofsted.gov.uk/provider/files/2269617/urn/103800.pdf",
+    "OfstedDate": "11-Sep-13"
+  },
+  {
+    "DFE_No": 3322140,
+    "Address": "Woodside Community School\nand Childrens Centre\nHighgate Road, Woodside\nDudley DY2 0SN",
+    "TwentySixteen": 0,
+    "TwentyFifteen": 1203,
+    "TwentyFourteen": 0,
+    "Lat": 52.496237,
+    "Lng": -2.107653,
+    "OfstedRank": "Inadequate",
+    "OfstedLink": "https://reports.ofsted.gov.uk/provider/files/2488808/urn/103817.pdf",
+    "OfstedDate": "23/04/2015"
+  },
+  {
+    "DFE_No": 3322146,
+    "Address": "Wren's Nest Primary\nFoxglove Road\nWren's Nest Estate\nDudley DY1 3NQ",
+    "TwentySixteen": 344,
+    "TwentyFifteen": 788,
+    "TwentyFourteen": 812,
+    "Lat": 52.524242,
+    "Lng": -2.102167,
+    "OfstedRank": "Good",
+    "OfstedLink": "https://reports.ofsted.gov.uk/provider/files/2075687/urn/103823.pdf",
+    "OfstedDate": "27-Sep-12"
   }
 ]
