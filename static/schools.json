@@ -1,0 +1,290 @@
+[
+  {
+    "DFE_No": 3325200,
+    "Address": "Alder Coppice Primary\nThe Northway\nDudley DY3 3PS",
+    "TwentySixteen": 1521,
+    "TwentyFifteen": 0,
+    "TwentyFourteen": 2144,
+    "Lat": 52.545858,
+    "Lng": -2.133738
+  },
+  {
+    "DFE_No": 3322123,
+    "Address": "Amblecote Primary\nSchool Drive\nAmblecote\nStourbridge DY8 4DQ",
+    "TwentySixteen": 849,
+    "TwentyFifteen": 0,
+    "TwentyFourteen": 2964,
+    "Lat": 52.467366,
+    "Lng": -2.150717
+  },
+  {
+    "DFE_No": 3322141,
+    "Address": "Ashwood Park Primary\noff Bells Lane, Ashwood Park Estate, Wordsley\nStourbridge DY8 5DJ",
+    "TwentySixteen": 0,
+    "TwentyFifteen": 0,
+    "TwentyFourteen": 0,
+    "Lat": 52.472138,
+    "Lng": -2.167099
+  },
+  {
+    "DFE_No": 3322003,
+    "Address": "Beechwood CE Primary School\nBeechwood Road\nDudley DY2 7QA",
+    "TwentySixteen": 0,
+    "TwentyFifteen": 0,
+    "TwentyFourteen": 0,
+    "Lat": 52.511297,
+    "Lng": -2.070883
+  },
+  {
+    "DFE_No": 3322151,
+    "Address": "Belle Vue Primary\nLawnswood Road\nWordsley\nStourbridge DY8 5BZ",
+    "TwentySixteen": 2764,
+    "TwentyFifteen": 1860,
+    "TwentyFourteen": 2534,
+    "Lat": 52.481877,
+    "Lng": -2.171878
+  },
+  {
+    "DFE_No": 3322077,
+    "Address": "Blanford Mere Primary\nMimosa Walk\nBlanford Mere Estate\nKingswinford DY6 7EA",
+    "TwentySixteen": 0,
+    "TwentyFifteen": 0,
+    "TwentyFourteen": 0,
+    "Lat": 52.50391,
+    "Lng": -2.159614
+  },
+  {
+    "DFE_No": 3322000,
+    "Address": "Blowers Green Primary\nBlowers Green Road\nDudley DY2 8UZ",
+    "TwentySixteen": 1938,
+    "TwentyFifteen": 2982,
+    "TwentyFourteen": 3775,
+    "Lat": 52.504943,
+    "Lng": -2.089839
+  },
+  {
+    "DFE_No": 3322045,
+    "Address": "Bramford Primary\nPark Road, Woodsetton\nDudley DY1 4JH",
+    "TwentySixteen": 796,
+    "TwentyFifteen": 1340,
+    "TwentyFourteen": 2097,
+    "Lat": 52.53451,
+    "Lng": -2.097972
+  },
+  {
+    "DFE_No": 3322023,
+    "Address": "Brierley Hill Primary\nMill Street\nBrierley Hill DY5 2TD",
+    "TwentySixteen": 1154,
+    "TwentyFifteen": 0,
+    "TwentyFourteen": 1100,
+    "Lat": 52.478417,
+    "Lng": -2.119847
+  },
+  {
+    "DFE_No": 3322024,
+    "Address": "Brockmoor Primary\nBelle Isle\nBrockmoor\nBrierley Hill DY5 3UZ",
+    "TwentySixteen": 0,
+    "TwentyFifteen": 1761,
+    "TwentyFourteen": 0,
+    "Lat": 52.48448,
+    "Lng": -2.129588
+  },
+  {
+    "DFE_No": 3322142,
+    "Address": "Bromley Hills Primary\nGranville Drive\nKingswinford DY6 8LW",
+    "TwentySixteen": 2027,
+    "TwentyFifteen": 0,
+    "TwentyFourteen": 0,
+    "Lat": 52.490137,
+    "Lng": -2.154012
+  },
+  {
+    "DFE_No": 3322029,
+    "Address": "Brook Primary\nGeorge Street, Wordsley\nStourbridge DY8 5YN",
+    "TwentySixteen": 0,
+    "TwentyFifteen": 0,
+    "TwentyFourteen": 1956,
+    "Lat": 52.472449,
+    "Lng": -2.151838
+  },
+  {
+    "DFE_No": 3322112,
+    "Address": "Caslon Primary\nBeeches View Avenue\nHalesowen B63 2ES",
+    "TwentySixteen": 901,
+    "TwentyFifteen": 0,
+    "TwentyFourteen": 0,
+    "Lat": 52.452264,
+    "Lng": -2.089289
+  },
+  {
+    "DFE_No": 3323010,
+    "Address": "Christ Church CE Primary\nChurch Road, Coseley\nBilston WV14 8YB",
+    "TwentySixteen": 955,
+    "TwentyFifteen": 925,
+    "TwentyFourteen": 713,
+    "Lat": 52.546495,
+    "Lng": -2.079087
+  },
+  {
+    "DFE_No": 3323007,
+    "Address": "Church of the\nAscension Primary\nNew Street, Wall Heath\nKingswinford DY6 9AH",
+    "TwentySixteen": 3200,
+    "TwentyFifteen": 0,
+    "TwentyFourteen": 0,
+    "Lat": 52.504643,
+    "Lng": -2.176185
+  },
+  {
+    "DFE_No": 3322102,
+    "Address": "Colley Lane Primary\nColley Lane\nHalesowen B63 2TN",
+    "TwentySixteen": 2629,
+    "TwentyFifteen": 4544,
+    "TwentyFourteen": 0,
+    "Lat": 52.460877,
+    "Lng": -2.087419
+  },
+  {
+    "DFE_No": 3322130,
+    "Address": "Cotwall End Primary\nCotwall End Road\nSedgley, Dudley DY3 3YG",
+    "TwentySixteen": 0,
+    "TwentyFifteen": 4125,
+    "TwentyFourteen": 0,
+    "Lat": 52.537166,
+    "Lng": -2.126118
+  },
+  {
+    "DFE_No": 3323350,
+    "Address": "Cradley CE Primary\nChurch Road\nHalesowen B63 2UL",
+    "TwentySixteen": 531,
+    "TwentyFifteen": 650,
+    "TwentyFourteen": 618,
+    "Lat": 52.463205,
+    "Lng": -2.087154
+  },
+  {
+    "DFE_No": 3322072,
+    "Address": "Crestwood Park Primary\nLapwood Avenue\nCrestwood Park Estate Kingswinford DY6 8RP",
+    "TwentySixteen": 1732,
+    "TwentyFifteen": 0,
+    "TwentyFourteen": 935,
+    "Lat": 52.492103,
+    "Lng": -2.14562
+  },
+  {
+    "DFE_No": 3322043,
+    "Address": "Dawley Brook Primary\nDubarry Avenue, Valley Fields\nKingswinford DY6 9BP",
+    "TwentySixteen": 0,
+    "TwentyFifteen": 3306,
+    "TwentyFourteen": 0,
+    "Lat": 52.500945,
+    "Lng": -2.173731
+  },
+  {
+    "DFE_No": 3322152,
+    "Address": "Dingle Community Primary\nMadeley Road\nKingswinford DY6 8PF",
+    "TwentySixteen": 0,
+    "TwentyFifteen": 1760,
+    "TwentyFourteen": 0,
+    "Lat": 52.486119,
+    "Lng": -2.147654
+  },
+  {
+    "DFE_No": 3322005,
+    "Address": "Dudley Wood Primary\nDudley Wood Road\nDudley DY2 0DB",
+    "TwentySixteen": 2037,
+    "TwentyFifteen": 904,
+    "TwentyFourteen": 788,
+    "Lat": 52.478015,
+    "Lng": -2.085423
+  },
+  {
+    "DFE_No": 3322063,
+    "Address": "Fairhaven Primary\nBarnett Lane\nWordsley\nStourbridge DY8 5PY",
+    "TwentySixteen": 1070,
+    "TwentyFifteen": 2275,
+    "TwentyFourteen": 800,
+    "Lat": 52.483538,
+    "Lng": -2.164744
+  },
+  {
+    "DFE_No": 3322068,
+    "Address": "Foxyards Primary\nFoxyards Road\nTipton DY4 8BH",
+    "TwentySixteen": 6290,
+    "TwentyFifteen": 1988,
+    "TwentyFourteen": 2086,
+    "Lat": 52.529758,
+    "Lng": -2.08299
+  },
+  {
+    "DFE_No": 3322145,
+    "Address": "Gig Mill Primary\nThe Broadway\nNorton\nStourbridge DY8 3HL",
+    "TwentySixteen": 0,
+    "TwentyFifteen": 3742,
+    "TwentyFourteen": 0,
+    "Lat": 52.449655,
+    "Lng": -2.162165
+  },
+  {
+    "DFE_No": 3322155,
+    "Address": "Glynne Primary\nCot Lane\nKingswinford DY6 9TH",
+    "TwentySixteen": 1255,
+    "TwentyFifteen": 1459,
+    "TwentyFourteen": 1059,
+    "Lat": 52.48808,
+    "Lng": -2.171981
+  },
+  {
+    "DFE_No": 3322109,
+    "Address": "Greenfield Primary\nHill Street\nStourbridge DY8 1AL",
+    "TwentySixteen": 315,
+    "TwentyFifteen": 466,
+    "TwentyFourteen": 530,
+    "Lat": 52.453482,
+    "Lng": -2.149575
+  },
+  {
+    "DFE_No": 3323352,
+    "Address": "Halesowen CE Primary\nHigh Street\nHalesowen B63 3BB",
+    "TwentySixteen": 2148,
+    "TwentyFifteen": 0,
+    "TwentyFourteen": 0,
+    "Lat": 52.450753,
+    "Lng": -2.052624
+  },
+  {
+    "DFE_No": 3322125,
+    "Address": "Ham Dingle Primary\nOld Ham Lane\nPedmore\nStourbridge DY9 0UN",
+    "TwentySixteen": 0,
+    "TwentyFifteen": 1075,
+    "TwentyFourteen": 1529,
+    "Lat": 52.443737,
+    "Lng": -2.129086
+  },
+  {
+    "DFE_No": 3322143,
+    "Address": "Hawbush Primary\nHawbush Road\nBrierley Hill DY5 3NH",
+    "TwentySixteen": 367,
+    "TwentyFifteen": 781,
+    "TwentyFourteen": 0,
+    "Lat": 52.478258,
+    "Lng": -2.141089
+  },
+  {
+    "DFE_No": 3322156,
+    "Address": "Hob Green Primary\nHob Green Road\nPedmore Fields\nStourbridge DY9 9EX",
+    "TwentySixteen": 614,
+    "TwentyFifteen": 0,
+    "TwentyFourteen": 759,
+    "Lat": 52.4432,
+    "Lng": -2.116322
+  },
+  {
+    "DFE_No": 3322137,
+    "Address": "Howley Grange Primary\nHowley Grange Road\nHalesowen B62 0HS",
+    "TwentySixteen": 1625,
+    "TwentyFifteen": 2347,
+    "TwentyFourteen": 2115,
+    "Lat": 52.456263,
+    "Lng": -2.015874
+  }
+]

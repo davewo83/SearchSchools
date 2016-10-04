@@ -1,0 +1,16 @@
+{% extends "layout.html" %}
+{% block content %}
+<p>Welcome to School Finder</p>
+    <p>Whether you are moving into a new area or wondering if your child will get into the same school as his/her friends, this site is for you.</p>
+    <p>By entering your postcode below, you will get a list of all the schools in your area. More importantly, you will get the distance from
+    your postcode to the school and whether you would have got into those schools for the past 3 years.</p>
+    <p>Currently this site only supports Dudley schools.</p>
+
+    <div class = form>
+        <form action="{{ url_for('save') }}" method="POST">
+            <label>Enter your postcode</label>
+            <input type="text" name="postcode" value="{{ saves.get('postcode', '') }}" autofocus>
+            <input type="submit" value="Let's Go!">
+        </form>
+    </div>
+{% endblock %}

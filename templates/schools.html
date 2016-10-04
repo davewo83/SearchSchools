@@ -1,0 +1,50 @@
+{%  extends "layout.html" %}
+{%  block title %}Adding | {{ super() }}{% endblock %}
+<meta name="viewport" content="initial-scale=1.0; maximum-scale=1.0; width=device-width;">
+{% block content %}
+    <div class="table-title">
+    <h3>Schools for {{ address }}</h3>
+    </div>
+    <table class="table-fill">
+    <thead>
+    <tr>
+    <th>Address</th>
+    <th>Distance</th>
+    <th>2016/2017</th>
+    <th>2015/2016</th>
+    <th>2014/2015</th>
+    </tr>
+    </thead>
+    <tbody class="table-hover">
+    {% for data in data %}
+        <tr>
+    <td><a href="https://reports.ofsted.gov.uk/provider/files/2269625/urn/103814.pdf">{{data.Address}}</a></td>
+    <td>{{"%.2f" % data.Dist}}km</td>
+    <td>{% if data.TwentySixteen == 0 %}
+    <p style="color:green">All applications admitted
+        {% elif (data.Dist*1000) <= (data.TwentySixteen) %}
+        <p style="color:green">{{ data.TwentySixteen }}m
+            {% else %}
+    <p style="color:red">{{ data.TwentySixteen }}m
+    {% endif %} </td>
+
+        <td>{% if data.TwentyFifteen == 0 %}
+    <p style="color:green">All applications admitted
+        {% elif (data.Dist*1000) <= (data.TwentyFifteen) %}
+        <p style="color:green">{{ data.TwentyFifteen }}m
+            {% else %}
+    <p style="color:red">{{ data.TwentyFifteen }}m
+    {% endif %} </td>
+
+        <td>{% if data.TwentyFourteen == 0 %}
+    <p style="color:green">All applications admitted
+        {% elif (data.Dist*1000) <= (data.TwentyFourteen) %}
+        <p style="color:green">{{ data.TwentyFourteen }}m
+            {% else %}
+    <p style="color:red">{{ data.TwentyFourteen }}m
+    {% endif %} </td>
+        </tr>
+    {% endfor %}
+</tbody>
+   </table>
+{% endblock %}
