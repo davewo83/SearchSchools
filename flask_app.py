@@ -3,8 +3,6 @@ from flask import render_template
 from flask import redirect
 from flask import url_for, request, make_response
 from haversine import haversine
-from decimal import *
-
 
 import requests, os
 
@@ -28,17 +26,10 @@ def get_saved_mapdata():
         mapdata = {}
     return mapdata
 
-
 @app.route('/')
 def index():
     data = get_saved_data()
     return render_template("index.html", saves=data)
-
-
-@app.route('/add/<int:num1>/<int:num2>')
-def add(num1, num2):
-    context = {'num1' : num1, 'num2' : num2}
-    return render_template("add.html", **context)
 
 @app.route('/save', methods=['POST'])
 def save():
@@ -76,8 +67,6 @@ def schools():
     json_data_sort = sorted(json_data, key=lambda distance: distance['Dist'])
     return render_template("schools.html", saves=get_saved_data(), data=json_data_sort, address=address)
 
-
-
 @app.route('/details')
 def details():
     mapdata = get_saved_mapdata()
@@ -99,7 +88,7 @@ def details():
         words = "was a violent crime."
     else:
         words = "were violent crimes."
-    return render_template("add.html", address=address, crimeno = crimeno, vc = vc, saves=get_saved_data(), words = words)
+    return render_template("", address=address, crimeno = crimeno, vc = vc, saves=get_saved_data(), words = words)
 
 
 
