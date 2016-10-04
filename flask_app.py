@@ -38,12 +38,9 @@ def save():
     data.update(dict(request.form.items()))
     response.set_cookie('postcode', json.dumps(data))
     postcode = data['postcode']
-    print(postcode)
     responsegm = requests.get(
         "https://maps.googleapis.com/maps/api/geocode/json?address=" + postcode + "&key=AIzaSyBH1JmyXN748ThqJ5YyQp2PdogAW1DqqHA")
-    print(responsegm)
     data2 = responsegm.json()
-    print(data2)
     response.set_cookie('mapsdata', json.dumps(data2))
     return response
 
@@ -63,7 +60,6 @@ def schools():
         schoollatlng = (lat2,lng2)
         dist=haversine(postcodelatlng,schoollatlng)
         item.update({"Dist":dist})
-    print(json_data)
     json_data_sort = sorted(json_data, key=lambda distance: distance['Dist'])
     return render_template("schools.html", saves=get_saved_data(), data=json_data_sort, address=address)
 
