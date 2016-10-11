@@ -2,18 +2,12 @@ body {
     color: black;
 }
 
-.outer-div
-{
-     position: absolute;
-     bottom: 30px;
-     width: 100%;
-}
-.inner-div
+.center-div
 {
      margin: 0 auto;
      width: 300px;
-     height: 250px;
 }
+
 table, th, td {
     font-family: 'Open Sans', sans-serif;
     border: 1px solid black;
